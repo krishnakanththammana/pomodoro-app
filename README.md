@@ -8,7 +8,7 @@ pomodoro-app will notify the user about the start/stop status via desktop notifi
 $ npm i pomodoro-app -g
 ```
 
-# Usage
+### Usage
 
 To start the pomodoro timer with default time(25mins)
 ```sh
@@ -22,3 +22,8 @@ or
 ```sh
 $ pomodoro --time 10
 ```
+
+### Screenshots
+<img src="https://raw.githubusercontent.com/krishnakanththammana/mediaContent/master/pomodoro-app/assets/timer-start.png.png" width="512">
+<br />
+<img src="https://raw.githubusercontent.com/krishnakanththammana/mediaContent/master/pomodoro-app/assets/timer-end.png.png" width="512">

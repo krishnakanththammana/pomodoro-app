@@ -24,6 +24,6 @@ $ pomodoro --time 10
 ```
 
 ### Screenshots
-<img src="https://raw.githubusercontent.com/krishnakanththammana/mediaContent/master/pomodoro-app/assets/timer-start.png.png" width="512">
+<img src="https://raw.githubusercontent.com/krishnakanththammana/mediaContent/master/pomodoro-app/assets/timer-start.png" width="512">
 <br />
-<img src="https://raw.githubusercontent.com/krishnakanththammana/mediaContent/master/pomodoro-app/assets/timer-end.png.png" width="512">
+<img src="https://raw.githubusercontent.com/krishnakanththammana/mediaContent/master/pomodoro-app/assets/timer-end.png" width="512">

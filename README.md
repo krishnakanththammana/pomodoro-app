@@ -1,6 +1,6 @@
 # pomodoro-app
 
-A simple pomodoro app for your terminal/CMD.
+A simple pomodoro app for your terminal/CMD. <br />
 pomodoro-app will notify the user about the start/stop status via desktop notifications
 
 ### Installation
